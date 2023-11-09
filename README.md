@@ -78,7 +78,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-03 205916.png>)
+![Screenshot 2023-11-03 205916](https://github.com/Sanjaichitra/simplewebserver/assets/144870518/6e229aac-e886-440b-9155-d724b274c417)
+
 ![Screenshot 2023-11-07 125047 (1)](https://github.com/Sanjaichitra/simplewebserver/assets/144870518/395f5805-97e9-4633-bff7-e8a7b162804f)
 
 
